@@ -1,4 +1,3 @@
-# sketchfab-legacy-environments
-A repo to store legacy HDRI environment images
+# Sketchfab Environments
 
-More info: https://forum.sketchfab.com/t/legacy-environments/13929
+A repo to store Sketchfab's HDRI environment images
